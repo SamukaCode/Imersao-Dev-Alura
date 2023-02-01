@@ -15,3 +15,6 @@ else if (chute < numeroSecreto){
     alert('Errou... o número secreto é maior que ' + chute + '\n Restam ' + tentativas + ' tentativas')
 }
 }
+
+// <!-- /* IMERSÃO DEV
+// AUTOR: SAMUEL CAMARGO  */ -->
